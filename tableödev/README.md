@@ -1,1 +1,0 @@
-<img src="../Desktop/tableödev/doğru foti.png" alt="görsel sunumu">
